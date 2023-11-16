@@ -1,0 +1,99 @@
+<svg width="1280" height="1280" viewBox="0 0 1280 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g opacity="0.6">
+        <circle cx="640.5" cy="641.5" r="608" stroke="#3A5FC1"/>
+        <g filter="url(#filter0_i_1981_1232)">
+            <circle cx="640.5" cy="641.5" r="562.5" fill="black" fill-opacity="0.01"/>
+        </g>
+        <circle cx="640.5" cy="641.5" r="562" stroke="#3A5FC1"/>
+        <g filter="url(#filter1_i_1981_1232)">
+            <ellipse cx="640.5" cy="640" rx="414.5" ry="414" fill="black" fill-opacity="0.01"/>
+        </g>
+        <path d="M1054.5 640C1054.5 868.369 869.146 1053.5 640.5 1053.5C411.854 1053.5 226.5 868.369 226.5 640C226.5 411.631 411.854 226.5 640.5 226.5C869.146 226.5 1054.5 411.631 1054.5 640Z" stroke="#3A5FC1"/>
+        <g filter="url(#filter2_i_1981_1232)">
+            <ellipse cx="640.5" cy="640" rx="276.5" ry="276" fill="black" fill-opacity="0.01"/>
+        </g>
+        <path d="M916.5 640C916.5 792.154 792.931 915.5 640.5 915.5C488.069 915.5 364.5 792.154 364.5 640C364.5 487.846 488.069 364.5 640.5 364.5C792.931 364.5 916.5 487.846 916.5 640Z" stroke="#3A5FC1"/>
+        <g filter="url(#filter3_i_1981_1232)">
+            <ellipse cx="640.5" cy="640" rx="150.5" ry="150" fill="black" fill-opacity="0.01"/>
+        </g>
+        <path d="M790.5 640C790.5 722.565 723.344 789.5 640.5 789.5C557.656 789.5 490.5 722.565 490.5 640C490.5 557.435 557.656 490.5 640.5 490.5C723.344 490.5 790.5 557.435 790.5 640Z" stroke="#3A5FC1"/>
+    </g>
+    <g opacity="0.6">
+        <line x1="359.434" y1="151.751" x2="640.434" y2="640.751" stroke="#3A5FC1"/>
+        <line x1="640.5" y1="78" x2="640.5" y2="641" stroke="#3A5FC1"/>
+        <line x1="922.433" y1="154.251" x2="640.433" y2="641.251" stroke="#3A5FC1"/>
+        <line x1="1129.25" y1="360.434" x2="640.249" y2="641.434" stroke="#3A5FC1"/>
+        <line x1="1203" y1="641.5" x2="640" y2="641.5" stroke="#3A5FC1"/>
+        <line x1="1127.75" y1="922.433" x2="639.751" y2="641.433" stroke="#3A5FC1"/>
+        <line x1="153.251" y1="358.567" x2="640.251" y2="640.567" stroke="#3A5FC1"/>
+        <line x1="77" y1="640.5" x2="640" y2="640.5" stroke="#3A5FC1"/>
+        <line x1="152.749" y1="922.567" x2="639.749" y2="640.567" stroke="#3A5FC1"/>
+        <line x1="358.567" y1="1128.75" x2="639.567" y2="640.75" stroke="#3A5FC1"/>
+        <line x1="639.5" y1="1205" x2="639.5" y2="641" stroke="#3A5FC1"/>
+        <line x1="922.567" y1="1129.25" x2="639.568" y2="641.251" stroke="#3A5FC1"/>
+    </g>
+    <g opacity="0.6">
+        <circle cx="78" cy="640" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="226" cy="640" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="364" cy="640" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="490" cy="640" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="791" cy="640" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="640" cy="490" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="640" cy="790" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="640" cy="916" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="640" cy="1054" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="640" cy="1204" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="640" cy="364" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="640" cy="226" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="640" cy="79" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="917" cy="640" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="1055" cy="640" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+        <circle cx="1203" cy="640" r="6.5" fill="#0D1428" stroke="#99B4FC"/>
+    </g>
+    <defs>
+        <filter id="filter0_i_1981_1232" x="78" y="79" width="1125" height="1125" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feMorphology radius="20" operator="erode" in="SourceAlpha" result="effect1_innerShadow_1981_1232"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="100"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.2275 0 0 0 0 0.371583 0 0 0 0 0.758333 0 0 0 0.3 0"/>
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_1981_1232"/>
+        </filter>
+        <filter id="filter1_i_1981_1232" x="226" y="226" width="829" height="828" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feMorphology radius="20" operator="erode" in="SourceAlpha" result="effect1_innerShadow_1981_1232"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="100"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.2275 0 0 0 0 0.371583 0 0 0 0 0.758333 0 0 0 0.3 0"/>
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_1981_1232"/>
+        </filter>
+        <filter id="filter2_i_1981_1232" x="364" y="364" width="553" height="552" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feMorphology radius="20" operator="erode" in="SourceAlpha" result="effect1_innerShadow_1981_1232"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="100"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.2275 0 0 0 0 0.371583 0 0 0 0 0.758333 0 0 0 0.3 0"/>
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_1981_1232"/>
+        </filter>
+        <filter id="filter3_i_1981_1232" x="490" y="490" width="301" height="300" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feMorphology radius="20" operator="erode" in="SourceAlpha" result="effect1_innerShadow_1981_1232"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="100"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.2275 0 0 0 0 0.371583 0 0 0 0 0.758333 0 0 0 0.3 0"/>
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_1981_1232"/>
+        </filter>
+    </defs>
+</svg>
